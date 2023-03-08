@@ -4,4 +4,6 @@
 
 Recipe Picks:
 
-- March: [Eggs Benny](../recipe/mar/eggs-.md)
+- January : [Vanilla Panna Cotta] (..recipe/jan/vanilla-panna-cotta.md)
+
+- February: [Eggs Benny](../recipe/mar/eggs-.md)
