@@ -14,8 +14,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Eggs Benny](recipe/mar/eggs-benny.md)
 
-### [Eggs Benny] (writer/eggs-benny.md) | englishmuffin@flavor.magazine
-
 [Eggs Benny](recipe/feb/eggs-benny.md)
 
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
